@@ -1,0 +1,55 @@
+/*Samuel Olsen, last edited: March 6, 2022*/
+
+.samsubheading {
+    font-size: 45px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    font-style: normal;
+    color: black;
+}
+
+.aligncenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.resume-list-header {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+}
+
+li {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+ }
+
+.underline {
+    text-decoration: underline;
+    color: rgb(rgb(17, 0, 255), green, blue)
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    align-content: center;
+  }
+
+.photo {
+    width:auto;
+    height: 600px;
+    align-content: center;
+  }
+

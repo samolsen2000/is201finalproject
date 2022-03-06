@@ -1,0 +1,47 @@
+/*Samuel Olsen, last edited: March 5, 2022*/
+
+html, body {
+    max-width: 100%;
+    overflow-x:hidden;
+    position:static;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.bgphoto{
+    object-position: center;
+    object-fit: contain;
+    
+}
+
+.tableau{
+    width: 600px;
+    height:auto;
+    align-content:center;
+}
+
+.line {
+    border-top: 3px;
+    border-color: black;
+    border-style: none;
+}
+
+.center {
+    display: block;
+    align-content: center;
+    text-align: center;
+}
+
+.pagelink {
+    font-size: 25px;
+    font-weight: normal;
+    display: block;
+    text-align: center;
+    font-style: normal;
+    color: rgb(117, 153, 231);
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
